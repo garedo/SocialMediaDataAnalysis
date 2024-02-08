@@ -1,4 +1,4 @@
-# SocialMediaDataAnalysis.
+# SocialMediaDataAnalysis
 
 Clean & Analyze Social Media
 
